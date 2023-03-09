@@ -3,7 +3,7 @@
 _Разработчик программного обеспечения [ICE_the_Breaker](https://github.com/ICEtheBreaker) в проекте [Aurora Project](https://github.com/ICEtheBreaker/CRMPProject-Main)_
   
   
-Разработчик модификаций **KAYF-LIFE** и **OPERATION: AWAY FROM HOME** - моды разработаны на языках: **C++**, **Lua**, **Python**, **Java**
+Разработчик модификаций **KAYF-LIFE** и **OPERATION: AWAY FROM HOME**. Моды разработаны на языках: **C++**, **Lua**, **Python**, **Java**
   
   <h2 align='center'>Цитаты</h2>
   
@@ -27,7 +27,40 @@ _Разработчик программного обеспечения [ICE_the
   
   Неплохо, хороший товар!
  
+  <h2 align='center'>Завершённые проекты</h2>
   
+   AWAY FROM HOME, 
+  
+   KAYF-LIFE, 
+  
+   SIDOROVICH.ML, 
+  
+   POLE-FM, 
+  
+   POLE-CHUDES.RU, 
+  
+   ULYANASITE, 
+  
+   DARK-DRIFT(незавершён), 
+  
+   PROJEKT-LAMBDA,
+  
+   FLUX ROLEPLAY, 
+  
+   PIVO.RU, 
+  
+   BLACK ONLINE, 
+  
+   DRIFT-REALITY,
+  
+   WORLD-DRIFT,
+   
+  
+  Photoshop:
+  
+  <a href="http://185.104.251.63/radio/images/background.jpg">Поле Чудес
+  <a href="http://185.104.251.63/radio/images/8march.png">Поздравление с 8-м марта
+    
   <h2 align='center'>Обо мне</h2>
 
 <h3 align='center'><i>Мои соц. сети</i></h3>
