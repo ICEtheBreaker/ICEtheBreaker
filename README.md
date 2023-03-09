@@ -104,10 +104,20 @@ _Разработчик программного обеспечения [ICE_the
 </br>
 
 
-<h2 align='center'><i>Популярный репозиторий</i></h2>
+<h2 align='center'><i>Рабочие репозитории</i></h2>
 
 <p align="center">
 <a href="https://github.com/ICEtheBreaker/CRMPProject-Main">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ICEtheBreaker&repo=CRMPProject-Main&theme=vue-dark&hide_border=true" height="185">
+<p align="right">
+ <a href="https://github.com/ICEtheBreaker/CRMPProject-Launcher">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ICEtheBreaker&repo=CRMPProject-Launcher&theme=vue-dark&hide_border=true" height="185">
+<p align="left">
+ <a href="https://github.com/ICEtheBreaker/test-project">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ICEtheBreaker&repo=test-project&theme=vue-dark&hide_border=true" height="185">
 </a>
+</a>
+</a>
+</p>
+</p>
 </p>
