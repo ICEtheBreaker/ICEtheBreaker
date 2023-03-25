@@ -77,6 +77,8 @@ _Разработчик программного обеспечения [ICE_the
     <td align='center' width="60">
         <a href="https://t.me/ICEtheBreaker"><img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" width="60"></a>
     </td>
+    <td align='center' width="60">
+        <a href="https://steamcommunity.com/id/icethebreaker"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/steam_alt_macos_bigsur_icon_189698.png" width="60"></a>
 </tr>
 </table>
   
