@@ -89,7 +89,7 @@ _Разработчик программного обеспечения [ICE_the
     <b>Язык в изучении</b>
  </td>
  <td align='center' width="60">
-     <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/pawn_icon_132114.png">
+     <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/pawn_icon_132114.png" title="PAWN">
  </td>
 </tr>
 </table>
