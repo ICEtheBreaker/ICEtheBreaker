@@ -69,16 +69,16 @@ _Разработчик программного обеспечения [ICE_the
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://vk.com/icethebreaker"><img src="https://cdn.icon-icons.com/icons2/535/PNG/512/VK-Icon_icon-icons.com_52860.png" width="60"></a>
+        <a href="https://vk.com/icethebreaker"><img src="https://cdn.icon-icons.com/icons2/535/PNG/512/VK-Icon_icon-icons.com_52860.png" width="60" title="VK"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://discordapp.com/users/731441122370388028/"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png"></a>
+        <a href="https://discordapp.com/users/731441122370388028/"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" title="Discord"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://t.me/ICEtheBreaker"><img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" width="60"></a>
+        <a href="https://t.me/ICEtheBreaker"><img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" title="Telegram" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://steamcommunity.com/id/icethebreaker"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/steam_alt_macos_bigsur_icon_189698.png" width="60"></a>
+        <a href="https://steamcommunity.com/id/icethebreaker"><img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/steam_alt_macos_bigsur_icon_189698.png" title="Steam" width="60"></a>
     </td>
 </tr>
 </table>
