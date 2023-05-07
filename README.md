@@ -58,7 +58,7 @@ _Разработчик программного обеспечения [ICE_the
   
   Photoshop:
   
-  <a href="http://185.104.251.63/radio/images/background.jpg">Поле Чудес
+  <a href="http://185.104.251.63/radio/images/background.jpg">Поле Чудес</br>
   <a href="http://185.104.251.63/radio/images/8march.png">Поздравление с 8-м марта
     
   <h2 align='center'>Обо мне</h2>
