@@ -3,7 +3,7 @@
 _Разработчик программного обеспечения [ICE_the_Breaker](https://github.com/ICEtheBreaker) в проекте [Aurora Project](https://github.com/ICEtheBreaker/CRMPProject-Main)_
   
   
-Разработчик модификаций **KAYF-LIFE** и **OPERATION: AWAY FROM HOME**. Моды разработаны на языках: **C++**, **Lua**, **Python**, **Java**
+Разработчик модификаций **KAYF-LIFE** и **AWAY FROM HOME**. Моды разработаны на языках: **HLSL**, **C++**, **Lua**, **Python**, **Java**
   
   <h2 align='center'>Цитаты</h2>
   
